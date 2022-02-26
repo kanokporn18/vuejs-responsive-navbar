@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Solvedvue cli Module build failed. No ESLint configuration found.
+See [Configuration Reference](https://lifesaver.codes/answer/module-build-failed-no-eslint-configuration-found-2948).
+- Add "column": "file:../../../components/column/column-component" in "dependencies" file package.json
